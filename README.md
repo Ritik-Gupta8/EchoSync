@@ -1,6 +1,6 @@
 # EchoSync - AI-Powered Hospitality Crisis Management
 
-This repository contains the full source code for EchoSync, an AI-driven crisis management hub. 
+This repository contains the full source code for EchoSync, an AI-Powered Hospitality Crisis Management hub. 
 
 ## Project Structure
 
