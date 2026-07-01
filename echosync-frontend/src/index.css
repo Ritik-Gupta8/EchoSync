@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #E11D48;
+  --color-dark: #0f172a;
+  --color-darker: #020617;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-darker);
+    color: #f1f5f9; /* Tailwind slate-100 */
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
