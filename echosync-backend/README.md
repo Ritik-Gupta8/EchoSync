@@ -1,4 +1,4 @@
-# ⚡ EchoSync Backend - AI Crisis Classification Engine
+# EchoSync Backend - AI-Powered Hospitality Crisis Management
 
 This is the backend service for **EchoSync**, a real-time, AI-driven hospitality crisis management hub. Built using **Python (Flask)** and the official **Google GenAI SDK**, it acts as the intelligence layer of the system by processing guest SOS alerts using **Gemini 2.5 Flash**.
 
