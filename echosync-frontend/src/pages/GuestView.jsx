@@ -82,7 +82,7 @@ const GuestView = () => {
       const payload = { message: message };
       if (image) payload.image_data = image;
 
-      const aiResponse = await axios.post('https://echosync-backend-dgj4.onrender.com/analyze-crisis', payload);
+      const aiResponse = await axios.post('https://echosync-backend-3n8t.onrender.com/analyze-crisis', payload);
       const { priority, action, english_translation, language_code } = aiResponse.data;
       
       setStatusMsg("Dispatching alert...");
